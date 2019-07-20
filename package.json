@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Install all Pipe Dream repositories in one go.",
   "main": "index.js",
-  "repository": "https://github.com/pipe-dream/installer",
+  "repository": "github:pipe-dream/installer",
   "author": "Anders Jürisoo",
   "license": "MIT"
 }
