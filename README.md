@@ -1,5 +1,5 @@
 # installer
-WIP: CLI to install all repos at once
+WIP: CLI to install all repos at once.
 
 ## notes
 
