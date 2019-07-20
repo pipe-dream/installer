@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "github:pipe-dream/installer",
   "author": "Anders Jürisoo",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  }
 }
