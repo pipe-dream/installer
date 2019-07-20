@@ -1,6 +1,6 @@
 {
   "name": "@pipe-dream/installer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Install all Pipe Dream repositories in one go.",
   "main": "src/index.js",
   "repository": "github:pipe-dream/installer",
